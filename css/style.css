@@ -329,16 +329,16 @@ footer .end .fas.fa-hands-helping {
   background-position: center;
 }
 .restaurants .cards__image-1 {
-  background-image: url("./assets/restaurants/menu-1.jpg");
+  background-image: url("../assets/restaurants/menu-1.jpg");
 }
 .restaurants .cards__image-2 {
-  background-image: url("./assets/restaurants/menu-2.jpg");
+  background-image: url("../assets/restaurants/menu-2.jpg");
 }
 .restaurants .cards__image-3 {
-  background-image: url("./assets/restaurants/menu-3.jpg");
+  background-image: url("../assets/restaurants/menu-3.jpg");
 }
 .restaurants .cards__image-4 {
-  background-image: url("./assets/restaurants/menu-4.jpg");
+  background-image: url("../assets/restaurants/menu-4.jpg");
 }
 .restaurants .cards__body {
   position: relative;
